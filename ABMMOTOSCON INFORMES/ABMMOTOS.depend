@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1595268389 source:c:\users\gonzalo\desktop\abmmotos\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"utn.h"
+	"motos.h"
+	"menu.h"
+	<ctype.h>
+
+1595099096 source:c:\users\gonzalo\desktop\abmmotos\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"string.h"
+	"ctype.h"
+
+1595018617 c:\users\gonzalo\desktop\abmmotos\tipo.h
+
+1595268389 source:c:\users\gonzalo\desktop\abmmotos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"utn.h"
+	"motos.h"
+	"trabajo.h"
+	"menu.h"
+	<ctype.h>
+
+1595268405 source:c:\users\gonzalo\desktop\abmmotos\moto.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"motos.h"
+	"utn.h"
+	"menu.h"
+	<ctype.h>
+	<string.h>
+
+1595188089 source:c:\users\gonzalo\desktop\abmmotos\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+
+1595188089 c:\users\gonzalo\desktop\abmmotos\color.h
+
+1595191439 c:\users\gonzalo\desktop\abmmotos\servicio.h
+
+1595192303 source:c:\users\gonzalo\desktop\abmmotos\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	<string.h>
+	<ctype.h>
+
+1592959385 source:c:\users\gonzalo\desktop\abmmotos\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1592959385 c:\users\gonzalo\desktop\abmmotos\utn.h
+
+1595268389 c:\users\gonzalo\desktop\abmmotos\motos.h
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1595095507 c:\users\gonzalo\desktop\abmmotos\menu.h
+
+1595108908 source:c:\users\gonzalo\desktop\abmmotos\fecha.c
+	<stdio.h>
+	<stdlib.h>
+
+1595258681 source:c:\users\gonzalo\desktop\abmmotos\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"utn.h"
+	"motos.h"
+	"menu.h"
+	"fecha.h"
+	"trabajo.h"
+	<ctype.h>
+
+1594939027 c:\users\gonzalo\desktop\abmmotos\fecha.h
+
+1595258681 c:\users\gonzalo\desktop\abmmotos\trabajo.h
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"utn.h"
+	"motos.h"
+	"menu.h"
+	"fecha.h"
+
+1595188089 source:c:\users\gonzalo\desktop\abmmotoscon informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+
+1595188089 c:\users\gonzalo\desktop\abmmotoscon informes\color.h
+
+1595108908 source:c:\users\gonzalo\desktop\abmmotoscon informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+
+1595268389 source:c:\users\gonzalo\desktop\abmmotoscon informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"utn.h"
+	"motos.h"
+	"trabajo.h"
+	"menu.h"
+	<ctype.h>
+
+1595018617 c:\users\gonzalo\desktop\abmmotoscon informes\tipo.h
+
+1595191439 c:\users\gonzalo\desktop\abmmotoscon informes\servicio.h
+
+1592959385 c:\users\gonzalo\desktop\abmmotoscon informes\utn.h
+
+1595269366 c:\users\gonzalo\desktop\abmmotoscon informes\motos.h
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1595258681 c:\users\gonzalo\desktop\abmmotoscon informes\trabajo.h
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"utn.h"
+	"motos.h"
+	"menu.h"
+	"fecha.h"
+
+1595095507 c:\users\gonzalo\desktop\abmmotoscon informes\menu.h
+
+1594939027 c:\users\gonzalo\desktop\abmmotoscon informes\fecha.h
+
+1595268389 source:c:\users\gonzalo\desktop\abmmotoscon informes\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"utn.h"
+	"motos.h"
+	"menu.h"
+	<ctype.h>
+
+1595192303 source:c:\users\gonzalo\desktop\abmmotoscon informes\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	<string.h>
+	<ctype.h>
+
+1595099096 source:c:\users\gonzalo\desktop\abmmotoscon informes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"string.h"
+	"ctype.h"
+
+1595258681 source:c:\users\gonzalo\desktop\abmmotoscon informes\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"utn.h"
+	"motos.h"
+	"menu.h"
+	"fecha.h"
+	"trabajo.h"
+	<ctype.h>
+
+1592959385 source:c:\users\gonzalo\desktop\abmmotoscon informes\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
